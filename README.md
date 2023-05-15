@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  Develop. Preview. Ship.
+ Create. build. inspire.
 </p>
 
 Welcome to my client sites catalog!
