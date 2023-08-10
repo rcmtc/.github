@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="cmtcristian.com">
-  <img src="https://github.com/rcmtc/.github/assets/20276785/9519a9f8-0513-4083-b2be-4bc1b5530a19" height="96">
+<!--   <img src="https://github.com/rcmtc/.github/assets/20276785/9519a9f8-0513-4083-b2be-4bc1b5530a19" height="96"> -->
     <h3 align="center">Basilisk</h3>
   </a>
 </p>
