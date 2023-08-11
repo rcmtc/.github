@@ -25,3 +25,115 @@ I've organized the catalog in a structured manner, allowing you to easily browse
 I'm constantly updating this catalog with new sites and experiments, ensuring that it remains a dynamic representation of my capabilities as a web developer. I invite you to explore the repository and witness the results of my dedication and passion for creating exceptional online experiences.
 
 Thank you for visiting my catalog, and I hope you find inspiration and insights from the projects and experiments I've shared.
+
+
+
+<table>
+  <tr>
+    <td width="33.33%" valign="top">
+      <h3 align="center">ForestGlobal.com</h3>
+      <br />
+      <a target="_blank" href="https://lucky-creponne-757be7.netlify.app">
+        <img src="https://i.imgur.com/9kVsQ8d.png" width="100%" alt="Portfolio"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/rcmtcristian/botanic" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>  
+        <a href="https://lucky-creponne-757be7.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>Javascript, Bootstrap, HTML, CSS</strong> - A website to showcase the research and advocate work of the org. Webpage is single page landing as requested.</p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3 align="center">MusicWorld</h3>
+      <br />
+      <a target="_blank" href="https://musicworld-rcmtcristian.vercel.app/">
+        <img src="https://i.imgur.com/iuMarwG.png" width="100%" alt="Darya'sEremia"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/rcmtcristian/musicworld#" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://musicworld-rcmtcristian.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>HTML5, CSS3, SCSS & Javascript</strong> - A gallery website showcasing the various collection of pictures.</p>
+    </td>
+     <td width="33.33%" valign="top">
+      <h3 align="center">MusicWorld</h3>
+      <br />
+      <a target="_blank" href="https://musicworld-rcmtcristian.vercel.app/">
+        <img src="https://i.imgur.com/iuMarwG.png" width="100%" alt="Darya'sEremia"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/rcmtcristian/musicworld#" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://musicworld-rcmtcristian.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>HTML5, CSS3, SCSS & Javascript</strong> - A gallery website showcasing the various collection of pictures.</p>
+    </td>
+  </tr>
+    <tr>
+    <td width="33.33%" valign="top">
+      <h3 align="center">ForestGlobal.com</h3>
+      <br />
+      <a target="_blank" href="https://lucky-creponne-757be7.netlify.app">
+        <img src="https://i.imgur.com/9kVsQ8d.png" width="100%" alt="Portfolio"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/rcmtcristian/botanic" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>  
+        <a href="https://lucky-creponne-757be7.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>Javascript, Bootstrap, HTML, CSS</strong> - A website to showcase the research and advocate work of the org. Webpage is single page landing as requested.</p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3 align="center">MusicWorld</h3>
+      <br />
+      <a target="_blank" href="https://musicworld-rcmtcristian.vercel.app/">
+        <img src="https://i.imgur.com/iuMarwG.png" width="100%" alt="Darya'sEremia"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/rcmtcristian/musicworld#" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://musicworld-rcmtcristian.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>HTML5, CSS3, SCSS & Javascript</strong> - A gallery website showcasing the various collection of pictures.</p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3 align="center">MusicWorld</h3>
+      <br />
+      <a target="_blank" href="https://musicworld-rcmtcristian.vercel.app/">
+        <img src="https://i.imgur.com/iuMarwG.png" width="100%" alt="Darya'sEremia"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/rcmtcristian/musicworld#" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://musicworld-rcmtcristian.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>HTML5, CSS3, SCSS & Javascript</strong> - A gallery website showcasing the various collection of pictures.</p>
+    </td>
+  </tr>
+</table>
+
