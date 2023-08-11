@@ -48,41 +48,41 @@ Thank you for visiting my catalog, and I hope you find inspiration and insights 
       <p><strong>Javascript, Parcel,Lenis</strong> <br> Transition from different aspect ratios </p>
     </td>
     <td width="33.33%" valign="top">
-      <h3 align="center">MusicWorld</h3>
+      <h3 align="center">TvBuddy</h3>
       <br />
-      <a target="_blank" href="https://musicworld-rcmtcristian.vercel.app/">
-        <img src="https://i.imgur.com/iuMarwG.png" width="100%" alt="Darya'sEremia"/>
+      <a target="_blank" href="https://buddy-two-eosin.vercel.app/">
+        <img src="https://github.com/rcmtcristian/buddy-two/assets/20276785/ea2a3e8a-591e-4b1a-abe9-7ec31a193562" width="100%" alt="TvBuddy"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/rcmtcristian/musicworld#" target="_blank">
+        <a href="https://github.com/rcmtcristian/buddy-two#" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://musicworld-rcmtcristian.vercel.app/" target="_blank">
+        <a href="https://buddy-two-eosin.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
         </a>
       </p>
-      <p><strong>HTML5, CSS3, SCSS & Javascript</strong> - A gallery website showcasing the various collection of pictures.</p>
+      <p><strong>Three.js </strong> <br> Three.js animation.</p>
     </td>
      <td width="33.33%" valign="top">
-      <h3 align="center">MusicWorld</h3>
+      <h3 align="center">Tachikoma</h3>
       <br />
-      <a target="_blank" href="https://musicworld-rcmtcristian.vercel.app/">
-        <img src="https://i.imgur.com/iuMarwG.png" width="100%" alt="Darya'sEremia"/>
+      <a target="_blank" href="https://tachikoma-conference.vercel.app/">
+        <img src="https://github.com/rcmtcristian/tachikoma-conference/assets/20276785/0dd9e47a-1edb-4fd1-a999-d5791d9575f6" width="100%" alt="Darya'sEremia"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/rcmtcristian/musicworld#" target="_blank">
+        <a href="https://github.com/rcmtcristian/tachikoma-conference" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://musicworld-rcmtcristian.vercel.app/" target="_blank">
+        <a href="https://tachikoma-conference.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
         </a>
       </p>
-      <p><strong>HTML5, CSS3, SCSS & Javascript</strong> - A gallery website showcasing the various collection of pictures.</p>
+      <p><strong>Three.js, SCSS & Javascript, Typescript</strong> <br> Interactive site </p>
     </td>
   </tr>
-    <tr>
+<!--     <tr>
     <td width="33.33%" valign="top">
       <h3 align="center">ForestGlobal.com</h3>
       <br />
@@ -134,6 +134,6 @@ Thank you for visiting my catalog, and I hope you find inspiration and insights 
       </p>
       <p><strong>HTML5, CSS3, SCSS & Javascript</strong> - A gallery website showcasing the various collection of pictures.</p>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
