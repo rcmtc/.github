@@ -82,24 +82,24 @@ Thank you for visiting my catalog, and I hope you find inspiration and insights 
       <p><strong>Three.js, SCSS & Javascript, Typescript</strong> <br> Interactive site </p>
     </td>
   </tr>
-<!--     <tr>
+   <tr>
     <td width="33.33%" valign="top">
-      <h3 align="center">ForestGlobal.com</h3>
+      <h3 align="center">Virtual Playground</h3>
       <br />
-      <a target="_blank" href="https://lucky-creponne-757be7.netlify.app">
-        <img src="https://i.imgur.com/9kVsQ8d.png" width="100%" alt="Portfolio"/>
+      <a target="_blank" href="https://beamish-puppy-8651de.netlify.app/">
+        <img src="https://github.com/rcmtc/.github/assets/20276785/45e38c45-e636-42c0-899e-3fdfd248f78d" width="100%" alt="Portfolio"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/rcmtcristian/botanic" target="_blank">
+        <a href="https://beamish-puppy-8651de.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>  
-        <a href="https://lucky-creponne-757be7.netlify.app" target="_blank">
+        <a href="https://beamish-puppy-8651de.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
         </a>
       </p>
-      <p><strong>Javascript, Bootstrap, HTML, CSS</strong> - A website to showcase the research and advocate work of the org. Webpage is single page landing as requested.</p>
-    </td>
+      <p><strong>Javascript, Anime.js, Two.js, Hammer.js</strong>  <br> A compilation of succesfull animation using different javascript libraries.</p>
+<!--      </td>
     <td width="33.33%" valign="top">
       <h3 align="center">MusicWorld</h3>
       <br />
@@ -133,7 +133,7 @@ Thank you for visiting my catalog, and I hope you find inspiration and insights 
         </a>
       </p>
       <p><strong>HTML5, CSS3, SCSS & Javascript</strong> - A gallery website showcasing the various collection of pictures.</p>
-    </td>
-  </tr> -->
+    </td>  </tr> -->
+
 </table>
 
