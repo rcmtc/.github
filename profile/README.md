@@ -134,23 +134,23 @@ Thank you for visiting my catalog, and I hope you find inspiration and insights 
       </p>
       <p><strong>Three.js</strong> <br> Sketch</p>
     </td>  </tr>
-<!--        <tr>
+       <tr>
     <td width="33.33%" valign="top">
-      <h3 align="center">Virtual Playground</h3>
+      <h3 align="center">3D glass portal card effect using R3F and Gaussian Splatting.</h3>
       <br />
       <a target="_blank" href="https://beamish-puppy-8651de.netlify.app/">
-        <img src="https://github.com/rcmtc/.github/assets/20276785/45e38c45-e636-42c0-899e-3fdfd248f78d" width="100%" alt="Portfolio"/>
+        <img src="https://github.com/rcmtc/.github/assets/20276785/7752ad12-48d5-4b06-8236-a6574ed30669" width="100%" alt="Portfolio"/> 
       </a>
       <br />
       <p align="center">
-        <a href="https://beamish-puppy-8651de.netlify.app/" target="_blank">
+<!--         <a href="https://beamish-puppy-8651de.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>  
-        <a href="https://beamish-puppy-8651de.netlify.app/" target="_blank">
+        </a>   -->
+        <a href="https://splat-portal.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
         </a>
       </p>
-      <p><strong>Javascript, Anime.js, Two.js, Hammer.js</strong>  <br> A compilation of succesfull animation using different javascript libraries.</p>
+      <p><strong>Javascript, RTF, JSX </strong>  <br> Remix of Codrops showcase and test of gaussian splatting with react three fiber.</p>
 <td width="33.33%" valign="top">
       <h3 align="center">Pulse</h3>
       <br />
@@ -185,7 +185,7 @@ Thank you for visiting my catalog, and I hope you find inspiration and insights 
         </a>
       </p>
       <p><strong>HTML5, CSS3, SCSS & Javascript</strong> - A gallery website showcasing the various collection of pictures.</p>
-    </td>  </tr> -->
+    </td>  </tr>
 
 </table>
 
